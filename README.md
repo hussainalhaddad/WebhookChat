@@ -4,6 +4,17 @@
 
 ---
 
+## 📸 Screenshots
+
+<img src="https://github.com/user-attachments/assets/98411c1e-bda3-45c9-964d-53e11a214df3" width="250">
+<img src="https://github.com/user-attachments/assets/e2c357eb-1c98-4001-84dc-f7bd99d6c3b0" width="250">
+<img src="https://github.com/user-attachments/assets/4bff730b-40f7-40d0-836b-e8fd7e5f9b38" width="250">
+<img src="https://github.com/user-attachments/assets/92a49ae6-3583-4f4f-b935-628461b3b2d3" width="250">
+<img src="https://github.com/user-attachments/assets/335228be-9cf2-4e7f-9a55-fa87b9cbf825" width="250">
+<img src="https://github.com/user-attachments/assets/6f1c3772-cd18-4950-8309-aa0694285638" width="250">
+
+---
+
 ## ✨ Features
 
 ### 💬 Core Chat
@@ -38,17 +49,6 @@
 ### 🔒 Permissions & Security
 - **🔑 Runtime Permissions:** Handles permissions for notifications, microphone, and file access.
 - **📁 File Size Limit:** Prevents sending files larger than 10MB.
-
----
-
-## 📸 Screenshots
-
-<img src="https://github.com/user-attachments/assets/98411c1e-bda3-45c9-964d-53e11a214df3" width="250">
-<img src="https://github.com/user-attachments/assets/e2c357eb-1c98-4001-84dc-f7bd99d6c3b0" width="250">
-<img src="https://github.com/user-attachments/assets/4bff730b-40f7-40d0-836b-e8fd7e5f9b38" width="250">
-<img src="https://github.com/user-attachments/assets/92a49ae6-3583-4f4f-b935-628461b3b2d3" width="250">
-<img src="https://github.com/user-attachments/assets/335228be-9cf2-4e7f-9a55-fa87b9cbf825" width="250">
-<img src="https://github.com/user-attachments/assets/6f1c3772-cd18-4950-8309-aa0694285638" width="250">
 
 ---
 
