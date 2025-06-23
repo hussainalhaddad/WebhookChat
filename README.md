@@ -84,6 +84,48 @@ Open the project in Android Studio and click **Run**, or use:
 4. **Customize:**  
    Change themes and chat bubble colors in Settings.
 
+### NOTE
+**⚠️ The app expects the payload as follows:
+
+Text Reply Example
+
+```javascript
+return [
+  {
+    json: {
+      message: `You said: ${$json.message}`
+    }
+  }
+];
+```
+Image Reply Example
+
+```javascript
+return [
+  {
+    json: {
+      message: "Here is an image from n8n",
+      attachmentData: "<base64-encoded-image>",
+      mimeType: "image/png",
+      fileName: "n8n-image.png"
+    }
+  }
+];
+```
+Voice Reply Example
+
+```javascript
+return [
+  {
+    json: {
+      message: "Here is a voice reply from n8n",
+      attachmentData: "<base64-encoded-audio>",
+      mimeType: "audio/mpeg",
+      fileName: "n8n-voice.mp3",
+    }
+  }
+];
+```
 ---
 
 ## 🤝 Contributing
